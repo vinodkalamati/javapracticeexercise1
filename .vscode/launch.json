@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PE4",
+            "request": "launch",
+            "mainClass": "PE4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PE3",
+            "request": "launch",
+            "mainClass": "PE3"
+        }
+    ]
+}
